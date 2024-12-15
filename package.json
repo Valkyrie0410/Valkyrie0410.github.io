@@ -39,7 +39,7 @@
     ]
   },
   "scripts": {
-    "install": "npm install $NPM_FLAGS && npm audit fix $NPM_AUDIT_FIX_FLAGS"
+    "install": "npm install $NPM_FLAGS && npm audit fix $NPM_AUDIT_FIX_FLAGS",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
