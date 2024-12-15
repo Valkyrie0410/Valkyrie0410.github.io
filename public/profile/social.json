@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/vaneesha-s-kumar-253166279/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Valkyrie0410"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:vaneesha.skumar.2004@gmail.com"
+        }
+    ]
+}

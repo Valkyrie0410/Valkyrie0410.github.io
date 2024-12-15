@@ -1,0 +1,26 @@
+{
+    "education":[
+        {
+            "title": "2022 - Present",
+            "cardTitle": "B.S, Mathematics and Scientific Computing",
+            "cardSubtitle":"Indian Institute of Technology, Kanpur",
+            "cardDetailedText": "CGPA - 7.7",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2020-2022",
+            "cardTitle": "Senior High School",
+            "cardSubtitle":"RV PU College, Bangalore",
+            "cardDetailedText": "Marks - 97.5%"
+        },
+        {
+            "title": "2020",
+            "cardTitle": "Junior High School",
+            "cardSubtitle":"National Public School (YPR), Bangalore",
+            "cardDetailedText": "Marks - 95.4%"
+        }
+
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "experiences": [
+        {
+            "title": "Research Intern",
+            "subtitle": "Indian Institute of Science | Prof. Govardhan Reddy",
+            "workType": "Full-time",
+            "workDescription": [
+                "Predicted the evolution of polymers using machine learning techniques.",
+                "Implemented a ML model with converging loss to reproduce high-dimensional structural parameters."
+            ],
+            "dateText": "05/2024 – 07/2024"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/airdrums.jpg",
+            "title": "Air Drums",
+            "bodyText": "- Drumless Drumsticks developed using signal processing techniques.\n -  Integrated hardware in a custom PCB.\n - Developed an app to make the drumsticks fully customizable.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Valkyrie0410/Airdrums"
+                }
+            ],
+            "tags" : [
+                "Arduino IDE",
+                "PyGame",
+                "SciPy",
+                "Python Tkinter"
+            ]
+        },
+        {
+            "image" : "images/projects/eeg.png",
+            "title": "EEG Based Servo-Motor Control",
+            "bodyText": "- Controlled a servo motor by measuring brain activity using **BioAmp EXG Pill**.\n -  Created a custom dataset by interfacing the subject's scalp and recorded EEG signals using EEG headset.\n - Implemented a CNN model to process spectrogram data and perform a binary classification task.",
+            "tags" : [
+                "TensorFlow",
+                "Librosa",
+                "SciPy",
+                "PySerial"
+            ]
+        },
+        {
+            "image" : "images/projects/soccersim.jpg",
+            "title": "Soccer Simulation 2D",
+            "bodyText": "-  Implemented mechanism to kick and defend ball through coordinated movements in a software simulation.\n -  Implemented two rcss clients to connect to rcsserver.\n - Worked on building our own log file and real-time parsing.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Valkyrie0410/Humanoid-RCSS-communication"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "Python",
+                "Webots",
+                "RoboCup"
+            ]
+        },
+        {
+            "image" : "images/projects/iros.jpeg",
+            "title": "IROS 2023 Wrestling Competition",
+            "bodyText": "- Ranked 2nd Worldwide in Stage 1 and qualified for 1/8 finals. \n - Worked on developing an ellipsoid gait-generator.\n - Created diverse motion files to enhance the motion capabilities of the bot.",
+            "tags" : [
+                "Webots",
+                "C++",
+                "IEEE"
+            ]
+        }
+    ]
+}
