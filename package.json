@@ -39,7 +39,6 @@
     ]
   },
   "scripts": {
-    "install": "npm install --legacy-peer-deps && npm audit fix --force",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
